@@ -4,8 +4,8 @@
 * [The Document Foundation Wiki](https://wiki.documentfoundation.org/)
 * [Weblate Translation](https://translations.documentfoundation.org/)
 
-### 번역(飜譯, Translation)의 규칙
-[KIGO 표준 스타일 가이드_v2017_20171116_final.pdf](file/KIGO 표준 스타일 가이드_v2017_20171116_final.pdf)의 내용에 따라 번역을 해야합니다.
+### 번역(飜譯, Translation) 규칙
+<a href="./file/KIGO 표준 스타일 가이드_v2017_20171116_final.pdf">KIGO 표준 스타일 가이드_v2017_20171116_final.pdf</a>의 내용에 따라 번역을 해야합니다.
 
 ### 위키 번역(Wiki Translation)
 문서 재단(The Document Foundation)의 위키(Wiki)를 번역합니다.
