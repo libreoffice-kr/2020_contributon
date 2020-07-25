@@ -16,8 +16,8 @@
 ### 2부: 리브레오피스 (LibreOffice) 한국어 사용성 향상 및 공헌자 양성 프로젝트 킥오프(kick-off) 자료
 
 #### 발표자료
- * PDF파일: [2020contributon_kickoff.odp](./data/2020contributon_kickoff.odp)
- * ODP파일: [2020contributon_kickoff_presentation.pdf](./data/2020contributon_kickoff_presentation.pdf)
+ * ODP파일: [2020contributon_kickoff.odp](./data/2020contributon_kickoff.odp)
+ * PDF파일: [2020contributon_kickoff_presentation.pdf](./data/2020contributon_kickoff_presentation.pdf)
  * slideshare: [[2020 컨트리뷰톤] 리브레오피스 (LibreOffice) 한국어 사용성 향상 및 공헌자 양성 프로젝트 킥오프 발표자료](https://www.slideshare.net/studioego/2020-libreoffice)
  * speakerdeck: (위의 내용에서 수정된 내용 추후 공개)
 
