@@ -9,15 +9,15 @@
 ### 1부: 2020 컨트리뷰톤 담당자의 컨트리뷰톤 소개 및 영상 공개
 
 담당자분의 2020 컨트리뷰톤 소개 및 이전 컨트리뷰톤 참여자의 동영상 공개
- * PDF파일: [2020 오픈소스 컨트리뷰톤 발대식.pdf](contributon/blob/master/2020/meetup/20200725/data/2020 오픈소스 컨트리뷰톤 발대식.pdf)
+ * PDF파일: [2020 오픈소스 컨트리뷰톤 발대식.pdf](./data/2020 오픈소스 컨트리뷰톤 발대식.pdf)
  * [[2020 오픈소스 컨트리뷰톤] 발대식 라떼는말이야(방진호)](https://youtu.be/dY4VAbVt-Ro)
  * [[2020 오픈소스 컨트리뷰톤] 컨트리뷰톤 지난 3년간의 회고(나동희)](https://youtu.be/m5QWGfTtMCQ)
 
 ### 2부: 리브레오피스 (LibreOffice) 한국어 사용성 향상 및 공헌자 양성 프로젝트 킥오프(kick-off) 자료
 
-####발표자료
- * PDF파일: [2020contributon_kickoff.odp](contributon/blob/master/2020/meetup/20200725/data/2020contributon_kickoff.odp)
- * ODP파일: [2020contributon_kickoff_presentation.pdf](contributon/blob/master/2020/meetup/20200725/data/2020contributon_kickoff_presentation.pdf)
+#### 발표자료
+ * PDF파일: [2020contributon_kickoff.odp](./data/2020contributon_kickoff.odp)
+ * ODP파일: [2020contributon_kickoff_presentation.pdf](./data/2020contributon_kickoff_presentation.pdf)
  * slideshare: [[2020 컨트리뷰톤] 리브레오피스 (LibreOffice) 한국어 사용성 향상 및 공헌자 양성 프로젝트 킥오프 발표자료](https://www.slideshare.net/studioego/2020-libreoffice)
  * speakerdeck: (위의 내용에서 수정된 내용 추후 공개)
 
@@ -42,4 +42,5 @@
 단체 사진 찍고 마무리
 
 다음 모임은 8월 1일 토요일, 오후2시부터 [토즈 강남 2호점](http://naver.me/xT73ri6y)에서 진행 예정.
+
 7월 26일 일요일에 메일로 전달하겠습니다.
